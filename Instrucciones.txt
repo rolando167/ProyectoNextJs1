@@ -1,0 +1,53 @@
+
+https://www.youtube.com/watch?v=sEaYI2NjpJc&list=PL_7HoiqMMaOeJe04VOdwRlrnU2cWjJKG5&index=13
+
+
+Youtube: Webtoriales
+ 
+ ==========================
+CMD:
+Crear el package json
+1.npm init -y
+
+instalar las dependencias
+2. npm install react react-dom next
+ 
+
+3. configurar los script en el package.json
+
+4.crear carpeta "pages" en la ruta, todo lo que vaya andentro ya tendra las rutas
+
+5- crear archivo index.js dentro de pages
+
+6. Crear el export codigo dentro del index.js
+
+7. cmd: npm run dev
+
+8. Crear archivo "users" en pages, se creará una ruta http://localhost:3000/users
+
+9. Muchos cambios
+
+10. actualizar next json : npm install next@latest  : latest = 10.0.5
+
+ ==========================
+
+
+ ==========================
+
+
+ ==========================
+
+
+ ==========================
+
+
+ ==========================
+
+
+ ==========================
+
+
+ ==========================
+
+
+ ==========================
